@@ -22,3 +22,5 @@ En este repositorio estan presentes los códigos necesarios para la elaboración
 
 - 6 leds para los dos semaforos de la interseccion
 - 2 Display 7 segmentos 
+- Via de interseccion para la circulacion de los vehiculos
+- Bases para los sensores
